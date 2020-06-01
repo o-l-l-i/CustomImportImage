@@ -60,3 +60,5 @@ Some of the parameters need to be accessed via settings objects, and those aren'
     - Format
 
 ![Custom Import Image Settings](custom_image_import_settings.png)
+
+© 2020 Olli Sorjonen All Rights Reserved
